@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/junitreports
+END
+TEST-com.landg.auto.GI.CustomerJourney.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/junitreports/TEST-com.landg.auto.GI.CustomerJourney.xml
+END
+TEST-com.landg.lqa.testflow.TestFlow02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/UXP/!svn/ver/137109/AutomatedTesting/NQA-CI/NQA/test-output/junitreports/TEST-com.landg.lqa.testflow.TestFlow02.xml
+END
+TEST-com.landg.lqa.utility.SendStatusMail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/junitreports/TEST-com.landg.lqa.utility.SendStatusMail.xml
+END

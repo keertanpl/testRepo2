@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Default%20suite
+END
+Default test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Default%20suite/Default%20test.xml
+END
+testng-failed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Default%20suite/testng-failed.xml
+END
+Default test.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Default%20suite/Default%20test.html
+END

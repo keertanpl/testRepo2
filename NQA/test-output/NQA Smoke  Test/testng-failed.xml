@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [NQA Smoke  Test]" parallel="classes">
+  <test name="Test1(failed)" parallel="classes">
+    <parameter name="Input" value="D:\Auto_M\NQA\Test Data\TestData.xlsx"/>
+    <parameter name="Testcase" value=""/>
+    <parameter name="Output" value="D:\Auto_M\NQA"/>
+    <parameter name="testPack" value="Health Check"/>
+    <parameter name="Environment" value="Preprod"/>
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="com.landg.lqa.testflow.TestFlow02">
+        <methods>
+          <include name="testNQATestng" invocation-numbers="0"/>
+          <include name="startSelenium"/>
+          <include name="stopSelenium"/>
+        </methods>
+      </class> <!-- com.landg.lqa.testflow.TestFlow02 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [NQA Smoke  Test] -->

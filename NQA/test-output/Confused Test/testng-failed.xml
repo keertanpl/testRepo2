@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Confused Test]" parallel="classes">
+  <parameter name="Input" value="C:\LQA Automation\04 LQA\LQA\TestData.xlsx"/>
+  <parameter name="Output" value="C:\LQA Automation\04 LQA\LQA"/>
+  <test name="Test1(failed)" parallel="classes">
+    <parameter name="Input" value="C:\LQA Automation\04 LQA\LQA\TestData.xlsx"/>
+    <parameter name="Output" value="C:\LQA Automation\04 LQA\LQA"/>
+    <classes>
+      <class name="com.landg.lqa.testflow.TestFlow02">
+        <methods>
+          <include name="stopSelenium"/>
+          <include name="testNQATestng" invocation-numbers="0"/>
+          <include name="startSelenium"/>
+        </methods>
+      </class> <!-- com.landg.lqa.testflow.TestFlow02 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Confused Test] -->
