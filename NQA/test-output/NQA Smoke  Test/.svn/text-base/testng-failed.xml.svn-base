@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [NQA Smoke  Test]" parallel="classes">
+  <parameter name="Environment" value="NFTE"/>
+  <parameter name="Input" value="C:\LQA Automation\05 NQA_SVN_003\NQA\Test Data\TestData.xlsx"/>
+  <parameter name="Browser" value="Firefox"/>
+  <parameter name="Testcase" value="11"/>
+  <parameter name="Output" value="C:\LQA Automation\05 NQA_SVN_003\NQA"/>
+  <parameter name="testPack" value="Regression Test"/>
+  <test name="Test1(failed)" parallel="classes">
+    <parameter name="Environment" value="NFTE"/>
+    <parameter name="Browser" value="Firefox"/>
+    <parameter name="Input" value="C:\LQA Automation\05 NQA_SVN_003\NQA\Test Data\TestData.xlsx"/>
+    <parameter name="Testcase" value="11"/>
+    <parameter name="Output" value="C:\LQA Automation\05 NQA_SVN_003\NQA"/>
+    <parameter name="testPack" value="Regression Test"/>
+    <classes>
+      <class name="com.landg.lqa.testflow.TestFlow02">
+        <methods>
+          <include name="stopSelenium"/>
+          <include name="testNQATestng" invocation-numbers="0"/>
+          <include name="startSelenium"/>
+        </methods>
+      </class> <!-- com.landg.lqa.testflow.TestFlow02 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [NQA Smoke  Test] -->

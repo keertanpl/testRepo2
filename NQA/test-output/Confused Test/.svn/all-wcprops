@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Confused%20Test
+END
+Test1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Confused%20Test/Test1.xml
+END
+Test1.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Confused%20Test/Test1.html
+END
+testng-failed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/Confused%20Test/testng-failed.xml
+END

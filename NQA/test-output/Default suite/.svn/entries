@@ -1,0 +1,64 @@
+8
+
+dir
+137028
+https://svn02prod/UXP/AutomatedTesting/NQA-CI/NQA/test-output/Default%20suite
+https://svn02prod/UXP
+
+
+
+2017-07-21T12:28:35.655766Z
+137028
+msp2790
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+52462ed7-ebc8-d547-b22e-d37c3b95b7a9
+
+Default test.xml
+file
+
+
+
+
+2017-07-21T12:30:43.355086Z
+a9bee98407208b01c82ed91bccf2e2b9
+2017-07-21T12:28:35.655766Z
+137028
+msp2790
+
+testng-failed.xml
+file
+
+
+
+
+2017-07-21T12:30:43.358992Z
+1903bc7adbbb05dcad6e85d864f19406
+2017-07-21T12:28:35.655766Z
+137028
+msp2790
+
+Default test.html
+file
+
+
+
+
+2017-07-21T12:30:43.363874Z
+aaf7589e81b2bcce828aab39e40879ef
+2017-07-21T12:28:35.655766Z
+137028
+msp2790
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/src/com/landg/lqa/utility
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/UXP/!svn/ver/137198/AutomatedTesting/NQA-CI/NQA/src/com/landg/lqa/utility/Utils.java
+END
+BrowserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UXP/!svn/ver/137195/AutomatedTesting/NQA-CI/NQA/src/com/landg/lqa/utility/BrowserAction.java
+END
+ExcelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UXP/!svn/ver/137196/AutomatedTesting/NQA-CI/NQA/src/com/landg/lqa/utility/ExcelUtils.java
+END
+Verification.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UXP/!svn/ver/137199/AutomatedTesting/NQA-CI/NQA/src/com/landg/lqa/utility/Verification.java
+END
+Init.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/UXP/!svn/ver/137197/AutomatedTesting/NQA-CI/NQA/src/com/landg/lqa/utility/Init.java
+END

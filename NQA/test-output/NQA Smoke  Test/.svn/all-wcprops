@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/UXP/!svn/ver/137028/AutomatedTesting/NQA-CI/NQA/test-output/NQA%20Smoke%20%20Test
+END
+Test1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UXP/!svn/ver/137109/AutomatedTesting/NQA-CI/NQA/test-output/NQA%20Smoke%20%20Test/Test1.xml
+END
+Test1.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UXP/!svn/ver/137109/AutomatedTesting/NQA-CI/NQA/test-output/NQA%20Smoke%20%20Test/Test1.html
+END
+testng-failed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UXP/!svn/ver/137109/AutomatedTesting/NQA-CI/NQA/test-output/NQA%20Smoke%20%20Test/testng-failed.xml
+END
